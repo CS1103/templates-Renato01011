@@ -1,0 +1,3 @@
+/cygdrive/e/Universidad/Ciclo 3/POO II/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/Universidad/Ciclo 3/POO II/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir
+/cygdrive/e/Universidad/Ciclo 3/POO II/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
